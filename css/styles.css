@@ -342,7 +342,7 @@ text-decoration-color: black;
 
 
 .buy-all button:hover{
-    color:black;
+    background-color:black;
 }
 .freesample-small{
     margin-left: 30px;
