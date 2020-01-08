@@ -339,6 +339,11 @@ text-decoration-color: black;
 .buy-all button{
     font-size: 20px;
 }
+
+
+.buy-all a:hover{
+    color:black;
+}
 .freesample-small{
     margin-left: 30px;
     margin-top: 570px;
