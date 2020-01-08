@@ -341,7 +341,7 @@ text-decoration-color: black;
 }
 
 
-.buy-all button a:hover{
+.buy-all button:hover{
     color:black;
 }
 .freesample-small{
